@@ -215,20 +215,6 @@ cd cinemax
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Design%20System&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
-</p>
-
-### Colors
-
-```css
-Background: #0a0a0f
-Primary: #e84040
-Text: #ffffff
-Muted: #a1a1aa
-```
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Future%20Enhancement&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>

@@ -23,16 +23,21 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-b4c6f14f-97e7-4b4f-bfd9-3bb16f3f6f8d.gif">
 
-# 🎥 Overview
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Overview%20&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 CINEMAX is a modern movie discovery experience built with React and TMDB API.
 
 Explore trending titles, search movies instantly, browse by genre, save favorites, and enjoy a polished streaming-platform inspired UI.
 
+<img width="1359" height="626" alt="Screenshot 2026-06-19 155937" src="https://github.com/user-attachments/assets/9ad14c6e-16b0-45e2-b99b-688a03a77da5" />
+
 ---
 
-
-# ✨ Key Features
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Key%20Features&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 | Feature | Status |
 |----------|---------|
@@ -45,87 +50,88 @@ Explore trending titles, search movies instantly, browse by genre, save favorite
 | 📱 Responsive Design | ✅ |
 | 🎞 Framer Motion Animations | ✅ |
 
-### 🎬 Hero Experience
-
-* Auto-rotating trending movie showcase
-* Cinematic fullscreen backgrounds
-* Smooth slide transitions
-
-### 🔍 Smart Search
-
-* Real-time search
-* Debounced API requests
-* Search history support
-* Instant movie discovery
-
-### 🎭 Movie Discovery
-
-* Genre filtering
-* Popular movies
-* Trending titles
-* Top rated collection
-* New releases
-
-### ❤️ Favorites System
-
-* Save favorite movies
-* Persistent local storage
-* Favorite badge indicator
-* Sort & manage saved movies
-
-### ⚡ Performance
-
-* Infinite scrolling
-* Lazy image loading
-* Skeleton loaders
-* Optimized API requests
-
-### 🎨 Premium UI
-
-* Dark streaming platform theme
-* Glassmorphism effects
-* Smooth Framer Motion animations
-* Fully responsive design
-
 ---
 
-# 📸 Screenshots
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Screenshots%20&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
+
 
 ## 🏠 Home Page
 
-![Home](./screenshots/home.png)
+<img width="1359" height="626" alt="Screenshot 2026-06-19 155937" src="https://github.com/user-attachments/assets/c1156e8a-b3f0-4a6d-ad9d-a1056d4a6897" />
 
 ---
 
 ## 🔍 Browse Movies
 
-![Browse](./screenshots/browse.png)
+<img width="1363" height="630" alt="Screenshot 2026-06-19 155959" src="https://github.com/user-attachments/assets/a833e945-be1b-4069-b0f6-1e8628039743" />
 
 ---
 
 ## ❤️ Favorites
 
-![Favorites](./screenshots/favorites.png)
+<img width="1359" height="637" alt="Screenshot 2026-06-19 160015" src="https://github.com/user-attachments/assets/78e12d46-8076-44b0-9e68-6e395fa5b394" />
 
 
 ---
 
-# 🛠 Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=TECH%20STACK&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
-| Category         | Technology      |
-| ---------------- | --------------- |
-| Frontend         | React 18        |
-| Styling          | Tailwind CSS    |
-| Routing          | React Router v6 |
-| Animations       | Framer Motion   |
-| API Client       | Axios           |
-| Data Source      | TMDB API        |
-| State Management | Context API     |
-| Build Tool       | Vite            |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,git,github" />
+
+</p>
+
+<table align="center">
+<tr>
+<td>⚛️ Frontend</td>
+<td><b>React 18</b></td>
+</tr>
+
+<tr>
+<td>🎨 Styling</td>
+<td><b>Tailwind CSS</b></td>
+</tr>
+
+<tr>
+<td>🛣 Routing</td>
+<td><b>React Router v6</b></td>
+</tr>
+
+<tr>
+<td>🎞 Animations</td>
+<td><b>Framer Motion</b></td>
+</tr>
+
+<tr>
+<td>🌐 API Client</td>
+<td><b>Axios</b></td>
+</tr>
+
+<tr>
+<td>🎬 Movie Database</td>
+<td><b>TMDB API</b></td>
+</tr>
+
+<tr>
+<td>🧠 State Management</td>
+<td><b>Context API</b></td>
+</tr>
+
+<tr>
+<td>⚡ Build Tool</td>
+<td><b>Vite</b></td>
+</tr>
+</table>
 
 ---
-
-# 🏗 Architecture
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Architecture%20&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 ```mermaid
 flowchart LR
@@ -153,8 +159,9 @@ J --> K[(Movie Database)]
 ```
 
 ---
-
-# 🎮 3D Workflow Structure
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Workflow%20Structure&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 ```md
 
@@ -200,30 +207,11 @@ git clone https://github.com/yourusername/cinemax.git
 cd cinemax
 ```
 
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Configure Environment
-
-Create:
-
-```env
-VITE_TMDB_API_KEY=YOUR_API_KEY
-```
-
-## Start Development Server
-
-```bash
-npm run dev
-```
-
 ---
 
-
-# 🎨 Design System
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Design%20System&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 ### Colors
 
@@ -236,18 +224,9 @@ Muted: #a1a1aa
 
 ---
 
-# ⚡ Performance Optimizations
-
-* Debounced search
-* Infinite scroll
-* Image lazy loading
-* Request caching
-* Skeleton loading states
-* Component memoization
-* 
----
-
-# 🌟 Future Roadmap
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Future%20Enhancement&fontColor=E84040&fontSize=55&color=000000&animation=twinkling"/>
+</p>
 
 * Authentication
 * Watchlists

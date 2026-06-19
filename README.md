@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+  <a href="https://search-movie-at-cinemax.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-e84040?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=E84040&center=true&vCenter=true&width=800&lines=Discover+Trending+Movies;Search+Thousands+of+Titles;Build+Your+Personal+Watchlist;Powered+by+TMDB+API"/>
 </p>
 
@@ -244,6 +250,9 @@ Contributions, issues, and feature requests are welcome.
 Feel free to fork the project and submit a pull request.
 
 ---
+
+![](https://img.shields.io/github/stars/ayushtripathi-45/cinemax?style=for-the-badge)
+![](https://img.shields.io/github/forks/ayushtripathi-45/cinemax?style=for-the-badge)
 
 # 📜 License
 

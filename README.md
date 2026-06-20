@@ -172,7 +172,7 @@ J --> K[(Movie Database)]
 
 ```md
 
-                 🎬 CINEMAX
+             🎬 CINEMAX
 
       ┌─────────────────────────┐
       │     Home Experience     │
@@ -203,15 +203,6 @@ J --> K[(Movie Database)]
 
        💾 Local Storage
 
----
-
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/cinemax.git
-cd cinemax
 ```
 
 ---
@@ -238,8 +229,6 @@ Feel free to fork the project and submit a pull request.
 
 ---
 
-![](https://img.shields.io/github/stars/ayushtripathi-45/cinemax?style=for-the-badge)
-![](https://img.shields.io/github/forks/ayushtripathi-45/cinemax?style=for-the-badge)
 
 # 📜 License
 

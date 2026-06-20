@@ -56,6 +56,7 @@ Explore trending titles, search movies instantly, browse by genre, save favorite
 | 📱 Responsive Design | ✅ |
 | 🎞 Framer Motion Animations | ✅ |
 
+
 ---
 
 <p align="center">
